@@ -1,0 +1,8 @@
+# GitHub Pages Configuration
+
+theme: minima
+
+# Custom settings
+
+# Markdown processing
+markdown: kramdown
